@@ -1,0 +1,17 @@
+/home/runner/ShoppingCentre-With-Triggers/bin/Debug/net6.0/ShoppingCentre
+/home/runner/ShoppingCentre-With-Triggers/bin/Debug/net6.0/ShoppingCentre.deps.json
+/home/runner/ShoppingCentre-With-Triggers/bin/Debug/net6.0/ShoppingCentre.runtimeconfig.json
+/home/runner/ShoppingCentre-With-Triggers/bin/Debug/net6.0/ShoppingCentre.dll
+/home/runner/ShoppingCentre-With-Triggers/bin/Debug/net6.0/ref/ShoppingCentre.dll
+/home/runner/ShoppingCentre-With-Triggers/bin/Debug/net6.0/ShoppingCentre.pdb
+/home/runner/ShoppingCentre-With-Triggers/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/runner/ShoppingCentre-With-Triggers/obj/Debug/net6.0/ShoppingCentre.csproj.AssemblyReference.cache
+/home/runner/ShoppingCentre-With-Triggers/obj/Debug/net6.0/ShoppingCentre.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/ShoppingCentre-With-Triggers/obj/Debug/net6.0/ShoppingCentre.AssemblyInfoInputs.cache
+/home/runner/ShoppingCentre-With-Triggers/obj/Debug/net6.0/ShoppingCentre.AssemblyInfo.cs
+/home/runner/ShoppingCentre-With-Triggers/obj/Debug/net6.0/ShoppingCentre.csproj.CoreCompileInputs.cache
+/home/runner/ShoppingCentre-With-Triggers/obj/Debug/net6.0/ShoppingCentre.csproj.CopyComplete
+/home/runner/ShoppingCentre-With-Triggers/obj/Debug/net6.0/ShoppingCentre.dll
+/home/runner/ShoppingCentre-With-Triggers/obj/Debug/net6.0/ref/ShoppingCentre.dll
+/home/runner/ShoppingCentre-With-Triggers/obj/Debug/net6.0/ShoppingCentre.pdb
+/home/runner/ShoppingCentre-With-Triggers/obj/Debug/net6.0/ShoppingCentre.genruntimeconfig.cache
